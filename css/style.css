@@ -10,15 +10,27 @@
     margin: 20px auto;
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    color: #702082;
-    background: #CFC096;
+    color: #ffffff;
+    background: #808080;
+  }
+
+  .name-div {
+    padding: 8px;
+  }
+
+  .message-div{
+    padding: 8px;
+  }
+
+  .upload-div {
+    padding: 8px
   }
 
   .radio {
     grid-column-start: 1;
     grid-column-end: 3;
     /* background: #575294; */
-    color: #702082;
+    color: #ffffff;
   }
 
   #name {
@@ -26,8 +38,8 @@
     padding: 10px;
     font-size: 18px;
     font-weight: bold;
-    background: #CFC096;
-    color: #9B9A6D;
+    background: #ffffff;
+    color: #000000;
   }
 
   #message {
